@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya251610" alt="aditya251610" /></a> </p>
 
-- 🔭 I’m currently working on **Starbucks Clone**
+- 🔭 I’m currently working on **Next.js projects**
 
 - 🌱 I’m currently learning **Web Development(MERN Stack)**
 
